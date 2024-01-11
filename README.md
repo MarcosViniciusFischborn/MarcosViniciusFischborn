@@ -10,8 +10,9 @@ Gmail
 :
 marcosbrmarcosxxx@gmail.com
 
-Instagram:
+Instagram
 ![instagram](https://github.com/MarcosViniciusFischborn/MarcosViniciusFischborn/assets/142673906/23d825e1-9c5a-4cab-bf63-6e47fb5e5a7e)
+:
 @051marcosvinicius
 <!---
 MarcosViniciusFischborn/MarcosViniciusFischborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
