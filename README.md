@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcos Vinicius Fischborn!
-- Estou apenas no inicio de estudos na área de programação (Aproximandamente 5 à 7 meses estudando) Tenho 16 anos e sempre gostei muito de tecnologia.
+-  Estou apenas no inicio de estudos na área de programação (Aproximandamente 5 à 7 meses estudando) Tenho 16 anos e sempre gostei muito de tecnologia.
 
   
 Informações para contato:
